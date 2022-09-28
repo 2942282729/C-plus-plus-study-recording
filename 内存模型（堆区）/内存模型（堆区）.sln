@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "内存模型（堆区）", "内存模型（堆区）\内存模型（堆区）.vcxproj", "{0187F99E-3540-4626-BEFF-BD4F1C64E085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0187F99E-3540-4626-BEFF-BD4F1C64E085}.Debug|x64.ActiveCfg = Debug|x64
+		{0187F99E-3540-4626-BEFF-BD4F1C64E085}.Debug|x64.Build.0 = Debug|x64
+		{0187F99E-3540-4626-BEFF-BD4F1C64E085}.Debug|x86.ActiveCfg = Debug|Win32
+		{0187F99E-3540-4626-BEFF-BD4F1C64E085}.Debug|x86.Build.0 = Debug|Win32
+		{0187F99E-3540-4626-BEFF-BD4F1C64E085}.Release|x64.ActiveCfg = Release|x64
+		{0187F99E-3540-4626-BEFF-BD4F1C64E085}.Release|x64.Build.0 = Release|x64
+		{0187F99E-3540-4626-BEFF-BD4F1C64E085}.Release|x86.ActiveCfg = Release|Win32
+		{0187F99E-3540-4626-BEFF-BD4F1C64E085}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAF533AE-B36E-4A23-BA60-817312E35819}
+	EndGlobalSection
+EndGlobal
